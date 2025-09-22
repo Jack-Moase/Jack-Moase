@@ -1,22 +1,22 @@
 # Jack Moase  
 
-💻 Deployment Technician @ Compnow | 🎓 IT Graduate | 🛠 Tech Enthusiast  
+💻 Deployment Technician @ Compnow | 🎓 IT Graduate | 🛠 Tech Lover | 🤖 Robotics Enthusiast
 
 I’m passionate about solving technical challenges, supporting users, and continuously expanding my knowledge of new technologies.  
 With a background in IT deployment, troubleshooting, and customer-facing support, I bring both strong technical expertise and interpersonal skills to every role.  
 
-My long-term goal is to grow into a career in cybersecurity or software engineering
+My long-term goal is to grow into a career in cybersecurity or software engineering.
 
 ---
 
 ## 💼 Work Experience  
 
 **Deployment Technician — Compnow**  
-_Feb 2025 – Present · Brisbane, QLD_  
+_Feb 2025 – Sep 2025 · Brisbane, QLD_  
 - Full-time IT deployment and support role  
 - Troubleshooting hardware/software issues  
 - Providing technical support to end users  
-- Deployment of devices and software across enterprise environments  
+- Deployment of devices and software across multiple enterprise environments  
 
 **Retail Supervisor — Coles Group**  
 _Aug 2021 – Jun 2025 · Brisbane, QLD_  
