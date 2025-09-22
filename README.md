@@ -49,12 +49,11 @@ Here are a few of my projects:
 - **[Discord Bot](https://github.com/Jack-Moase/Discord-Bot---Friend-Server)** — A Python-based bot for moderation and entertainment  
 - **[Website](#)** — Working on currently  
  
-
 ---
 
 ## 📊 GitHub Stats  
 
-![Jack’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Moase&show_icons=true&theme=tokyonight)  
+![Jack’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Moase&show_icons=true&theme=dark)  
 
 ---
 
