@@ -46,7 +46,7 @@ _Feb 2024 – Jul 2024_
 
 Here are a few of my projects:  
 
-- **[Discord Bot]((https://github.com/Jack-Moase/Discord-Bot---Friend-Server))** — A Python-based bot for moderation and entertainment  
+- **[Discord Bot](https://github.com/Jack-Moase/Discord-Bot---Friend-Server)** — A Python-based bot for moderation and entertainment  
 - **[Website](#)** — Working on currently  
  
 
