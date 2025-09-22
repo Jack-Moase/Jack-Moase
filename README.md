@@ -2,7 +2,10 @@
 
 💻 Deployment Technician @ Compnow | 🎓 IT Graduate | 🛠 Tech Enthusiast  
 
-I enjoy solving technical problems, supporting users, and constantly learning new technologies. My background combines hands-on IT deployment, troubleshooting, and customer-facing experience, giving me both the technical and interpersonal skills to excel in the industry. I am expanding my software development knowledge to
+I’m passionate about solving technical challenges, supporting users, and continuously expanding my knowledge of new technologies.  
+With a background in IT deployment, troubleshooting, and customer-facing support, I bring both strong technical expertise and interpersonal skills to every role.  
+
+My long-term goal is to grow into a career in cybersecurity or software engineering
 
 ---
 
