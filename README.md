@@ -1,6 +1,6 @@
 # Jack Moase  
 
-💻 Deployment Technician @ Compnow  |  🎓 IT Graduate  |  🛠 Tech Lover  |  🤖 Robotics Enthusiast
+💻 Deployment Technician @ Compnow &nbsp;|&nbsp;  🎓 IT Graduate  &nbsp;|&nbsp;  🛠 Tech Lover  &nbsp;|&nbsp;  🤖 Robotics Enthusiast
 
 I’m passionate about solving technical challenges, supporting users, and continuously expanding my knowledge of new technologies.  
 With a background in IT deployment, troubleshooting, and customer-facing support, I bring both strong technical expertise and interpersonal skills to every role.  
