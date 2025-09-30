@@ -13,7 +13,7 @@ My long-term goal is to grow into a career in cybersecurity or software engineer
 
 **Service Desk L1 — Veracity**  
 _Sep 2025 – Current · Brisbane, QLD_  
-- 
+- Full-time IT Help desk for a number of clients
 
 **Deployment Technician — Compnow**  
 _Feb 2025 – Sep 2025 · Brisbane, QLD_  
