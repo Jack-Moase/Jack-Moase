@@ -1,6 +1,6 @@
 # Jack Moase  
 
-💻 Deployment Technician @ Compnow &nbsp;|&nbsp;  🎓 IT Graduate  &nbsp;|&nbsp;  🛠 Tech Lover  &nbsp;|&nbsp;  🤖 Robotics Enthusiast
+💻 Service Desk L1 @ Veracity &nbsp;|&nbsp;  🎓 IT Graduate  &nbsp;|&nbsp;  🛠 Tech Lover  &nbsp;|&nbsp;  🤖 Robotics Enthusiast
 
 I’m passionate about solving technical challenges, supporting users, and continuously expanding my knowledge of new technologies.  
 With a background in IT deployment, troubleshooting, and customer-facing support, I bring both strong technical expertise and interpersonal skills to every role.  
@@ -10,6 +10,10 @@ My long-term goal is to grow into a career in cybersecurity or software engineer
 ---
 
 ## 💼 Work Experience  
+
+**Service Desk L1 — Veracity**  
+_Sep 2025 – Current · Brisbane, QLD_  
+- 
 
 **Deployment Technician — Compnow**  
 _Feb 2025 – Sep 2025 · Brisbane, QLD_  
