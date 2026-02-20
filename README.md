@@ -60,7 +60,7 @@ Here are a few of my projects:
 
 ## GitHub Stats  
 
-![Jack’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Moase&show_icons=true&theme=dark)
+![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Moase&show_icons=true&theme=tokyonight)
 
 ---
 
