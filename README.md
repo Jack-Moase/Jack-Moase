@@ -1,6 +1,6 @@
 # Jack Moase  
 
-💻 Service Desk L1 @ Veracity &nbsp;|&nbsp;  🎓 IT Graduate  &nbsp;|&nbsp;  🛠 Tech Lover  &nbsp;|&nbsp;  🤖 Robotics Enthusiast
+Service Desk L1 @ Veracity &nbsp;|&nbsp;  IT Graduate  &nbsp;|&nbsp;  Tech Lover  &nbsp;|&nbsp;  Robotics Enthusiast
 
 I’m passionate about solving technical challenges, supporting users, and continuously expanding my knowledge of new technologies.  
 With a background in IT deployment, troubleshooting, and customer-facing support, I bring both strong technical expertise and interpersonal skills to every role.  
@@ -9,7 +9,7 @@ My long-term goal is to grow into a career in cybersecurity or software engineer
 
 ---
 
-## 💼 Work Experience  
+## Work Experience  
 
 **Service Desk L1 — Veracity**  
 _Sep 2025 – Current · Brisbane, QLD_  
@@ -30,7 +30,7 @@ _Aug 2021 – Jun 2025 · Brisbane, QLD_
 
 ---
 
-## 🎓 Education  
+## Education  
 
 **TAFE NSW — Certificate III in Information Technology**  
 _Feb 2024 – Jul 2024_  
@@ -40,7 +40,7 @@ _Feb 2024 – Jul 2024_
 
 ---
 
-## 🛠 Skills  
+## Skills  
 
 - Technical Support & Troubleshooting  
 - Device Deployment & Management  
@@ -49,7 +49,7 @@ _Feb 2024 – Jul 2024_
 
 ---
 
-## 📂 Projects  
+## Projects  
 
 Here are a few of my projects:  
 
@@ -58,13 +58,13 @@ Here are a few of my projects:
  
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 ![Jack’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Moase&show_icons=true&theme=dark)  
 
 ---
 
-## 🤝 Connect with me
+## Connect with me
 
 - LinkedIn: [linkedin.com/in/jack-moase](https://www.linkedin.com/in/jack-moase)  
 
